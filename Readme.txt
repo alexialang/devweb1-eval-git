@@ -12,3 +12,5 @@ git commit -m "first commit"
 git push -u origin master
 
 git checkout -b "dev"
+
+git add .
