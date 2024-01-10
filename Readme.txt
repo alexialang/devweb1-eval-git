@@ -9,8 +9,16 @@ git branch -M master
 
 git commit -m "first commit"
 
+
 git push -u origin master
+
+
+git commit -m "commit message"
+
+git push
 
 git checkout -b "dev"
 
 git add .
+
+git push -u origin dev
