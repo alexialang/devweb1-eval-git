@@ -16,10 +16,10 @@ git push
 
 git checkout -b "dev"
 
+git add .
+
 git commit -m "commit message"
 
 git push -u origin dev
-
-git add .
 
 git checkout "master"
